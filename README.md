@@ -1,4 +1,4 @@
-# Case de Engenharia de Dados | FEA.dev
+# Case de Engenharia de Dados e Analytics | FEA.dev
 
 ## Introdução
 
