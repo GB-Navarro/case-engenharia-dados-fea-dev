@@ -165,7 +165,7 @@ Este projeto gera valor ao abordar um problema crítico no contexto de **gerenci
 
 ## Licença
 
-Este projeto está licenciado sob a licença **MIT**. Consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
+Este projeto está licenciado sob a licença **MIT**. 
 
 ---
 
