@@ -1,0 +1,101 @@
+Produto,Categoria,Data,Vendas,Lucro,Custo
+Geladeira,Eletrodomésticos,10/03/2024,345,312,33
+Relógio Inteligente,Acessórios,11/03/2024,352,224,128
+Relógio Inteligente,Acessórios,12/03/2024,363,238,125
+Livro de Ficção,Livros,13/03/2024,354,254,100
+Relógio Inteligente,Acessórios,14/03/2024,381,315,66
+Livro de Ficção,Livros,15/03/2024,350,229,121
+Smartphone,Eletrônicos,16/03/2024,357,315,42
+TV 4K,Eletrônicos,17/03/2024,359,306,53
+Smartphone,Eletrônicos,18/03/2024,353,147,206
+Fone de Ouvido,Acessórios,19/03/2024,381,248,133
+Notebook,Eletrônicos,20/03/2024,385,279,106
+Fone de Ouvido,Acessórios,21/03/2024,356,177,179
+Relógio Inteligente,Acessórios,22/03/2024,345,150,195
+Cafeteira,Eletrodomésticos,23/03/2024,449,405,44
+Geladeira,Eletrodomésticos,24/03/2024,401,160,241
+Tênis Esportivo,Vestuário,25/03/2024,435,207,228
+Livro de Ficção,Livros,26/03/2024,489,393,96
+Jaqueta de Couro,Vestuário,27/03/2024,413,371,42
+Relógio Inteligente,Acessórios,28/03/2024,489,360,129
+Cafeteira,Eletrodomésticos,29/03/2024,516,492,24
+Relógio Inteligente,Acessórios,30/03/2024,405,281,124
+TV 4K,Eletrônicos,31/03/2024,345,201,144
+Livro de Ficção,Livros,01/04/2024,477,251,226
+Tênis Esportivo,Vestuário,02/04/2024,345,215,130
+TV 4K,Eletrônicos,03/04/2024,417,185,232
+Tênis Esportivo,Vestuário,04/04/2024,345,123,222
+TV 4K,Eletrônicos,05/04/2024,475,287,188
+Jaqueta de Couro,Vestuário,06/04/2024,399,304,95
+Jaqueta de Couro,Vestuário,07/04/2024,597,430,167
+Jaqueta de Couro,Vestuário,08/04/2024,577,348,229
+Livro de Ficção,Livros,09/04/2024,435,341,94
+Geladeira,Eletrodomésticos,10/04/2024,438,405,33
+Relógio Inteligente,Acessórios,11/04/2024,569,453,116
+Notebook,Eletrônicos,12/04/2024,345,315,30
+Smartphone,Eletrônicos,13/04/2024,481,235,246
+Livro de Ficção,Livros,14/04/2024,345,318,27
+Geladeira,Eletrodomésticos,15/04/2024,597,377,220
+Relógio Inteligente,Acessórios,16/04/2024,345,190,155
+Geladeira,Eletrodomésticos,17/04/2024,649,432,217
+Notebook,Eletrônicos,18/04/2024,579,416,163
+Tênis Esportivo,Vestuário,19/04/2024,505,277,228
+Fone de Ouvido,Acessórios,20/04/2024,632,410,222
+TV 4K,Eletrônicos,21/04/2024,681,626,55
+Fone de Ouvido,Acessórios,22/04/2024,689,657,32
+Cafeteira,Eletrodomésticos,23/04/2024,477,251,226
+Tênis Esportivo,Vestuário,24/04/2024,345,176,169
+Livro de Ficção,Livros,25/04/2024,483,463,20
+Cafeteira,Eletrodomésticos,26/04/2024,392,307,85
+Notebook,Eletrônicos,27/04/2024,681,435,246
+Relógio Inteligente,Acessórios,28/04/2024,786,711,75
+Jaqueta de Couro,Vestuário,29/04/2024,345,127,218
+Fone de Ouvido,Acessórios,30/04/2024,600,573,27
+Relógio Inteligente,Acessórios,01/05/2024,657,465,192
+Cafeteira,Eletrodomésticos,02/05/2024,504,280,224
+Cafeteira,Eletrodomésticos,03/05/2024,615,524,91
+Geladeira,Eletrodomésticos,04/05/2024,730,540,190
+Cafeteira,Eletrodomésticos,05/05/2024,569,473,96
+Tênis Esportivo,Vestuário,06/05/2024,687,537,150
+Tênis Esportivo,Vestuário,07/05/2024,809,740,69
+Jaqueta de Couro,Vestuário,08/05/2024,522,504,18
+Geladeira,Eletrodomésticos,09/05/2024,585,545,40
+Tênis Esportivo,Vestuário,10/05/2024,406,173,233
+Smartphone,Eletrônicos,11/05/2024,655,441,214
+Cafeteira,Eletrodomésticos,12/05/2024,471,374,97
+Smartphone,Eletrônicos,13/05/2024,729,659,70
+Relógio Inteligente,Acessórios,14/05/2024,410,199,211
+Livro de Ficção,Livros,15/05/2024,609,513,96
+Geladeira,Eletrodomésticos,16/05/2024,546,469,77
+TV 4K,Eletrônicos,17/05/2024,617,519,98
+Geladeira,Eletrodomésticos,18/05/2024,966,916,50
+Tênis Esportivo,Vestuário,19/05/2024,555,334,221
+Smartphone,Eletrônicos,20/05/2024,984,877,107
+Cafeteira,Eletrodomésticos,21/05/2024,561,349,212
+Geladeira,Eletrodomésticos,22/05/2024,929,750,179
+Notebook,Eletrônicos,23/05/2024,641,451,190
+TV 4K,Eletrônicos,24/05/2024,570,382,188
+TV 4K,Eletrônicos,25/05/2024,421,354,67
+Tênis Esportivo,Vestuário,26/05/2024,653,467,186
+TV 4K,Eletrônicos,27/05/2024,813,730,83
+Tênis Esportivo,Vestuário,28/05/2024,1056,1026,30
+Tênis Esportivo,Vestuário,29/05/2024,985,944,41
+Notebook,Eletrônicos,30/05/2024,507,370,137
+Livro de Ficção,Livros,31/05/2024,591,518,73
+Fone de Ouvido,Acessórios,01/06/2024,345,263,82
+Jaqueta de Couro,Vestuário,02/06/2024,1101,1070,31
+TV 4K,Eletrônicos,03/06/2024,770,629,141
+Tênis Esportivo,Vestuário,04/06/2024,775,738,37
+Livro de Ficção,Livros,05/06/2024,1128,892,236
+Geladeira,Eletrodomésticos,06/06/2024,697,511,186
+Notebook,Eletrônicos,07/06/2024,1057,853,204
+Tênis Esportivo,Vestuário,08/06/2024,435,404,31
+Tênis Esportivo,Vestuário,09/06/2024,982,855,127
+Smartphone,Eletrônicos,10/06/2024,529,336,193
+Smartphone,Eletrônicos,11/06/2024,531,375,156
+Smartphone,Eletrônicos,12/06/2024,1191,977,214
+TV 4K,Eletrônicos,13/06/2024,630,566,64
+TV 4K,Eletrônicos,14/06/2024,1017,941,76
+Smartphone,Eletrônicos,15/06/2024,927,827,100
+Geladeira,Eletrodomésticos,16/06/2024,933,773,160
+TV 4K,Eletrônicos,17/06/2024,840,603,237
